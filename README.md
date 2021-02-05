@@ -10,3 +10,7 @@ Series agenda:
   
     
 ![Kin architecture overview](kin-architecture-overview.png)
+  
+You can view your TEST transactions in the Solana explorer using the custom cluster address below.  
+Solana explorer - https://explorer.solana.com/  
+Update cluster address - Custom - https://local.validator.agorainfra.dev/7:03
