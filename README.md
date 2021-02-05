@@ -1,7 +1,7 @@
 # Kin Go SDK tutorial series
 
 Series agenda:
-* This video - Introduction and initial gotchas
+* [This video](https://www.youtube.com/watch?v=wDz0Zji1VUg) - Introduction and initial gotchas
   * What do you need for transactions? Create account, send, spend.
 * Invoices and earn batches
 * Transaction monitoring and deduplication
